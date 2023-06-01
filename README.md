@@ -38,6 +38,7 @@ Inspired by [Elixir's][elixir-companies] and [Elm's][elm-companies] lists.
 
 * [Bitfury](http://bitfury.com)([Exonum](https://exonum.com)) - Exonum is an extensible framework for blockchain projects written in Rust.
 * [Cryptape](http://cryptape.com) - Rust makes our permissioned blockchain, CITA, faster and stronger.
+* [Eiger](https://www.eiger.co) ([Github](https://github.com/eigerco)) - Eiger provides expert teams to help leading technology companies scale and develop their core Web3 technologies.
 * [Libra](https://libra.org)
   ([GitHub](https://github.com/libra/libra)) - A global cryptocurrency built by Facebook.
 * [MaidSafe](http://www.maidsafe.net) - Building a decentralised data and communications network.
